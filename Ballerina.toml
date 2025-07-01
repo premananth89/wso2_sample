@@ -1,0 +1,4 @@
+[package]
+org = "indiumdevanttraining"
+name = "wso2sample"
+version = "0.1.0"
