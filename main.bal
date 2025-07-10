@@ -51,6 +51,7 @@ public function main() {
     
     io:println(string `Current date: ${year}-${month < 10 ? "0" : ""}${month}-${day < 10 ? "0" : ""}${day}`);
     io:println("sample print statement");
+    io:println("multi line output");
 }
 
 function isLeapYear(int year) returns boolean {
